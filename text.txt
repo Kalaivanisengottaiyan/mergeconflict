@@ -1,1 +1,6 @@
-city:salem
+
+city1:salem
+city2:bangalor
+city3:chennai
+
+
